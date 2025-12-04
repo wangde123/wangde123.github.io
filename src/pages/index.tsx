@@ -1,6 +1,5 @@
-import React, { useCallback, useEffect, useState } from 'react';
-import { Swiper, Image, Toast, Dialog, Space } from 'antd-mobile';
-import type { ImageUploadItem } from 'antd-mobile/es/components/image-uploader';
+import React, { useEffect, useState } from 'react';
+import { Swiper, Image, Toast } from 'antd-mobile';
 import { AddCircleOutline } from 'antd-mobile-icons';
 import { createClient } from '@supabase/supabase-js';
 import styles from './index.less';
@@ -14,25 +13,7 @@ const supabase = createClient(
 
 const BUCKET_NAME = 'photos';
 
-// Client-side image compression to improve upload speed
-async function compressImage(file: File, maxDim = 1280, quality = 0.8): Promise<Blob> {
-  if (!file.type.startsWith('image/')) return file;
-  const bitmap = await createImageBitmap(file);
-  const { width, height } = bitmap;
-  const scale = Math.min(1, maxDim / Math.max(width, height));
-  const targetW = Math.max(1, Math.round(width * scale));
-  const targetH = Math.max(1, Math.round(height * scale));
-  const canvas = document.createElement('canvas');
-  canvas.width = targetW;
-  canvas.height = targetH;
-  const ctx = canvas.getContext('2d');
-  if (!ctx) return file;
-  ctx.drawImage(bitmap, 0, 0, targetW, targetH);
-  const type = file.type.includes('png') ? 'image/png' : 'image/jpeg';
-  return new Promise((resolve) => {
-    canvas.toBlob((blob) => resolve(blob || file), type, quality);
-  });
-}
+
 
 export default function HomePage() {
   const [slides, setSlides] = useState<{ image: string; id: number; title: string }[]>([]);
@@ -73,16 +54,6 @@ export default function HomePage() {
   useEffect(() => {
     run();
   }, []);
-
-
-
-
-
-
-
-
-
-
 
   return (
     <div className={styles.homeContainer}>

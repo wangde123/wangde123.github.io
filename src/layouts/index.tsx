@@ -46,14 +46,13 @@ export default function Layout() {
         <Outlet />
       </div>
       <div className={styles.tabbar}>
-        <SafeArea position='top' />
         <TabBar>
           {tabs.map(item => (
             <TabBar.Item key={item.key} icon={item.icon} title={item.title} />
           ))}
         </TabBar>
-        <SafeArea position='bottom' />
       </div>
+        <SafeArea position='bottom' />
     </div>
   );
 }
