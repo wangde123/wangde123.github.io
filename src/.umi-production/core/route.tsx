@@ -26,7 +26,7 @@ export async function getRoutes() {
 'edit/index': React.lazy(() => import(/* webpackChunkName: "src__pages__edit__index" */'../../../src/pages/edit/index.tsx')),
 'index': React.lazy(() => import(/* webpackChunkName: "src__pages__index" */'../../../src/pages/index.tsx')),
 'docs': React.lazy(() => import(/* webpackChunkName: "src__pages__docs" */'../../../src/pages/docs.tsx')),
-'@@/global-layout': React.lazy(() => import(/* webpackChunkName: "layouts__index" */'/Users/mi/Desktop/moblie/DAY-Mobile/src/layouts/index.tsx')),
+'@@/global-layout': React.lazy(() => import(/* webpackChunkName: "layouts__index" */'/Users/mi/Desktop/moblie/wangde123.github.io/src/layouts/index.tsx')),
 },
   };
 }
