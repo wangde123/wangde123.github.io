@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "author": "v-wangde <v-wangde@xiaomi.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.86.0",
+    "antd-mobile": "^5.41.1",
+    "antd-mobile-icons": "^0.3.0",
+    "swiper": "^12.0.3",
+    "umi": "^4.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "dotenv": "^17.2.3",
+    "typescript": "^5.0.3"
+  }
+}
