@@ -106,7 +106,7 @@ export default function EditPage() {
     <div className={styles.editContainer}>
       <NavBar onBack={() => history.push('/')} style={{background:"#fff"}}>图片编辑</NavBar>
       <div className={styles.body}>
-        <ImageUploader value={fileList} onChange={setFileList} upload={upload} onDelete={onDelete} maxCount={5} />
+        <ImageUploader value={fileList} onChange={setFileList} upload={upload} onDelete={onDelete} maxCount={10} />
       </div>
     </div>
   );
