@@ -3,14 +3,14 @@
 // DO NOT CHANGE IT MANUALLY!
 import './core/polyfill';
 
-import { renderClient } from '/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+renderer-react@4.6.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@umijs/renderer-react';
+import { renderClient } from '/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+renderer-react@4.6.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@umijs/renderer-react';
 import { getRoutes } from './core/route';
 import { createPluginManager } from './core/plugin';
 import { createHistory } from './core/history';
 import { ApplyPluginsType } from 'umi';
 
 
-const publicPath = "/DAY-Mobile/";
+const publicPath = "/";
 const runtimePublicPath = false;
 
 async function render() {
@@ -33,7 +33,7 @@ async function render() {
     initialValue: {},
   });
 
-  const basename = contextOpts.basename || '/DAY-Mobile/';
+  const basename = contextOpts.basename || '/';
   const historyType = contextOpts.historyType || 'browser';
 
   const history = createHistory({

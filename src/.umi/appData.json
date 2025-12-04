@@ -1,5 +1,5 @@
 {
-  "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+  "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
   "pkg": {
     "private": true,
     "author": "v-wangde <v-wangde@xiaomi.com>",
@@ -24,12 +24,12 @@
       "typescript": "^5.0.3"
     }
   },
-  "pkgPath": "/Users/mi/Desktop/moblie/DAY-Mobile/package.json",
+  "pkgPath": "/Users/mi/Desktop/moblie/wangde123.github.io/package.json",
   "plugins": {
     "./node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/servicePlugin": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "preset",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/servicePlugin.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/servicePlugin.js",
       "id": "./node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/servicePlugin",
       "key": "servicePlugin",
       "config": {},
@@ -40,22 +40,22 @@
       "enableBy": "register"
     },
     "@umijs/preset-umi": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "preset",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/index.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/index.js",
       "id": "@umijs/preset-umi",
       "key": "umi",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 18
+        "register": 4
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/registerMethods": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/registerMethods.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/registerMethods.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/registerMethods",
       "key": "registerMethods",
       "config": {},
@@ -65,14 +65,14 @@
             0
           ]
         },
-        "register": 6
+        "register": 2
       },
       "enableBy": "register"
     },
     "@umijs/did-you-know": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+did-you-know@1.0.4/node_modules/@umijs/did-you-know/dist/plugin.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+did-you-know@1.0.4/node_modules/@umijs/did-you-know/dist/plugin.js",
       "id": "@umijs/did-you-know",
       "key": "umijsDidYouKnow",
       "config": {},
@@ -82,31 +82,31 @@
             1
           ]
         },
-        "register": 5
+        "register": 2
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/404/404": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/404/404.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/404/404.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/404/404",
       "key": "404",
       "config": {},
       "time": {
         "hooks": {
           "modifyRoutes": [
-            1
+            0
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/aiDev/aiDev": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/aiDev/aiDev.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/aiDev/aiDev.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/aiDev/aiDev",
       "key": "aiDev",
       "config": {},
@@ -117,39 +117,39 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/appData": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/appData.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/appData.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/appData",
       "key": "appData",
       "config": {},
       "time": {
         "hooks": {
           "modifyAppData": [
-            25
+            19
           ]
         },
-        "register": 14
+        "register": 12
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/appData/umiInfo",
       "key": "umiInfo",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/check": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/check.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/check.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/check",
       "key": "check",
       "config": {},
@@ -167,9 +167,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/babel722": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/babel722.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/babel722.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/check/babel722",
       "key": "babel722",
       "config": {},
@@ -184,9 +184,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/codeSplitting/codeSplitting",
       "key": "codeSplitting",
       "config": {},
@@ -197,9 +197,9 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/configPlugins/configPlugins",
       "key": "configPlugins",
       "config": {},
@@ -209,7 +209,7 @@
             0
           ]
         },
-        "register": 13
+        "register": 4
       },
       "enableBy": "register"
     },
@@ -1039,10 +1039,10 @@
       "config": {
         "default": {
           "umi": "@@/exports",
-          "react": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react@18.3.1/node_modules/react",
-          "react-dom": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom",
-          "react-router": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router",
-          "react-router-dom": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-router-dom@6.3.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom"
+          "react": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react@18.3.1/node_modules/react",
+          "react-dom": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom",
+          "react-router": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router",
+          "react-router-dom": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-router-dom@6.3.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom"
         }
       },
       "type": "plugin",
@@ -1053,29 +1053,29 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/crossorigin/crossorigin",
       "key": "crossorigin",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/depsOnDemand/depsOnDemand",
       "key": "depsOnDemand",
       "config": {},
       "time": {
         "hooks": {
           "onStart": [
-            0
+            1
           ]
         },
         "register": 0
@@ -1083,9 +1083,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/devTool/devTool": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/devTool/devTool.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/devTool/devTool.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/devTool/devTool",
       "key": "devTool",
       "config": {},
@@ -1096,48 +1096,48 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esbuildHelperChecker/esbuildHelperChecker",
       "key": "esbuildHelperChecker",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 44
+        "register": 39
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esmi/esmi": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esmi/esmi.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esmi/esmi.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/esmi/esmi",
       "key": "esmi",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 45
+        "register": 21
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/exportStatic/exportStatic",
       "key": "exportStatic",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 51
+        "register": 10
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/favicons/favicons": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/favicons/favicons.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/favicons/favicons.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/favicons/favicons",
       "key": "favicons",
       "config": {},
@@ -1147,27 +1147,27 @@
             0
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/helmet/helmet": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/helmet/helmet.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/helmet/helmet.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/helmet/helmet",
       "key": "helmet",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/icons/icons": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/icons/icons.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/icons/icons.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/icons/icons",
       "key": "icons",
       "config": {},
@@ -1178,38 +1178,38 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mock/mock": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mock/mock.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mock/mock.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mock/mock",
       "key": "mock",
       "config": {},
       "time": {
         "hooks": {
           "onStart": [
-            1
+            0
           ]
         },
-        "register": 23
+        "register": 17
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mpa/mpa": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mpa/mpa.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mpa/mpa.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mpa/mpa",
       "key": "mpa",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/okam/okam": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/okam/okam.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/okam/okam.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/okam/okam",
       "key": "okam",
       "config": {},
@@ -1219,51 +1219,51 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/overrides/overrides": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/overrides/overrides.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/overrides/overrides.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/overrides/overrides",
       "key": "overrides",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/phantomDependency/phantomDependency",
       "key": "phantomDependency",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/polyfill",
       "key": "polyfill",
       "config": {},
       "time": {
         "hooks": {
           "modifyConfig": [
-            2
+            1
           ]
         },
-        "register": 2
+        "register": 1
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/polyfill/publicPathPolyfill",
       "key": "publicPathPolyfill",
       "config": {},
@@ -1274,22 +1274,22 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/prepare/prepare": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/prepare/prepare.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/prepare/prepare.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/prepare/prepare",
       "key": "prepare",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePrefetch/routePrefetch",
       "key": "routePrefetch",
       "config": {},
@@ -1300,22 +1300,22 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/stagewise/stagewise": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/stagewise/stagewise.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/stagewise/stagewise.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/stagewise/stagewise",
       "key": "stagewise",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/terminal/terminal": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/terminal/terminal.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/terminal/terminal.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/terminal/terminal",
       "key": "terminal",
       "config": {},
@@ -1326,22 +1326,22 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/tmpFiles",
       "key": "tmpFiles",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 4
+        "register": 2
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clientLoader/clientLoader",
       "key": "clientLoader",
       "config": {},
@@ -1352,9 +1352,9 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routeProps/routeProps",
       "key": "routeProps",
       "config": {},
@@ -1364,48 +1364,48 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ssr/ssr": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ssr/ssr.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ssr/ssr.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ssr/ssr",
       "key": "ssr",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/tmpFiles/configTypes",
       "key": "configTypes",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/transform/transform": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/transform/transform.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/transform/transform.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/transform/transform",
       "key": "transform",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/lowImport/lowImport",
       "key": "lowImport",
       "config": {},
@@ -1416,47 +1416,47 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/vite/vite": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/vite/vite.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/vite/vite.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/vite/vite",
       "key": "vite",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute",
       "key": "apiRoute",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 6
+        "register": 4
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/monorepo/redirect",
       "key": "monorepoRedirect",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 14
+        "register": 11
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/test/test": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/test/test.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/test/test.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/test/test",
       "key": "test",
       "config": {},
@@ -1466,9 +1466,9 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/clickToComponent/clickToComponent",
       "key": "clickToComponent",
       "config": {},
@@ -1479,11 +1479,24 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/legacy/legacy": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/legacy/legacy.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/legacy/legacy.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/legacy/legacy",
       "key": "legacy",
+      "config": {},
+      "time": {
+        "hooks": {},
+        "register": 1
+      },
+      "enableBy": "config"
+    },
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
+      "type": "plugin",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose",
+      "key": "classPropertiesLoose",
       "config": {},
       "time": {
         "hooks": {},
@@ -1491,35 +1504,22 @@
       },
       "enableBy": "config"
     },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
-      "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/classPropertiesLoose/classPropertiesLoose",
-      "key": "classPropertiesLoose",
-      "config": {},
-      "time": {
-        "hooks": {},
-        "register": 1
-      },
-      "enableBy": "config"
-    },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/webpack/webpack": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/webpack/webpack.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/webpack/webpack.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/webpack/webpack",
       "key": "preset-umi:webpack",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/swc/swc": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/swc/swc.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/swc/swc.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/swc/swc",
       "key": "swc",
       "config": {},
@@ -1529,26 +1529,26 @@
             0
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ui/ui": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ui/ui.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ui/ui.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/ui/ui",
       "key": "ui",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 1
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mako/mako": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mako/mako.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mako/mako.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/mako/mako",
       "key": "mako",
       "config": {},
@@ -1559,9 +1559,9 @@
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/utoopack/utoopack": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/utoopack/utoopack.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/utoopack/utoopack.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/utoopack/utoopack",
       "key": "utoopack",
       "config": {},
@@ -1571,9 +1571,9 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/hmrGuardian/hmrGuardian",
       "key": "hmrGuardian",
       "config": {},
@@ -1583,34 +1583,34 @@
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/routePreloadOnLoad/routePreloadOnLoad",
       "key": "routePreloadOnLoad",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 15
+        "register": 14
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/forget/forget": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/forget/forget.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/forget/forget.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/forget/forget",
       "key": "forget",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 0
       },
       "enableBy": "config"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/bundler/bundler": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/bundler/bundler.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/bundler/bundler.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/features/bundler/bundler",
       "key": "preset-umi:bundler",
       "config": {},
@@ -1621,51 +1621,51 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/build": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/build.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/build.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/build",
       "key": "build",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 3
+        "register": 2
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/config/config": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/config/config.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/config/config.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/config/config",
       "key": "config",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 25
+        "register": 19
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/dev/dev": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/dev/dev.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/dev/dev.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/dev/dev",
       "key": "dev",
       "config": {},
       "time": {
         "hooks": {
           "modifyAppData": [
-            7
+            8
           ]
         },
-        "register": 40
+        "register": 15
       }
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/help": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/help.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/help.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/help",
       "key": "help",
       "config": {},
@@ -1676,24 +1676,11 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/lint": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/lint.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/lint.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/lint",
       "key": "lint",
-      "config": {},
-      "time": {
-        "hooks": {},
-        "register": 1
-      },
-      "enableBy": "register"
-    },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
-      "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup",
-      "key": "setup",
       "config": {},
       "time": {
         "hooks": {},
@@ -1701,12 +1688,12 @@
       },
       "enableBy": "register"
     },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode",
-      "key": "deadcode",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/setup",
+      "key": "setup",
       "config": {},
       "time": {
         "hooks": {},
@@ -1714,10 +1701,23 @@
       },
       "enableBy": "register"
     },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/version": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/version.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/deadcode",
+      "key": "deadcode",
+      "config": {},
+      "time": {
+        "hooks": {},
+        "register": 0
+      },
+      "enableBy": "register"
+    },
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/version": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
+      "type": "plugin",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/version.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/version",
       "key": "version",
       "config": {},
@@ -1728,9 +1728,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/page": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/page.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/page.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/page",
       "key": "generator:page",
       "config": {},
@@ -1741,9 +1741,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/prettier": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/prettier.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/prettier.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/prettier",
       "key": "generator:prettier",
       "config": {},
@@ -1754,9 +1754,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tsconfig",
       "key": "generator:tsconfig",
       "config": {},
@@ -1767,102 +1767,76 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/jest": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/jest.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/jest.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/jest",
       "key": "generator:jest",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/tailwindcss",
       "key": "generator:tailwindcss",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/dva": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/dva.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/dva.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/dva",
       "key": "generator:dva",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 2
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/component": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/component.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/component.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/component",
       "key": "generator:component",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/mock": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/mock.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/mock.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/mock",
       "key": "generator:mock",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/cypress": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/cypress.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/cypress.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/cypress",
       "key": "generator:cypress",
-      "config": {},
-      "time": {
-        "hooks": {},
-        "register": 1
-      },
-      "enableBy": "register"
-    },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
-      "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api",
-      "key": "generator:api",
-      "config": {},
-      "time": {
-        "hooks": {},
-        "register": 1
-      },
-      "enableBy": "register"
-    },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
-      "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit",
-      "key": "generator:precommit",
       "config": {},
       "time": {
         "hooks": {},
@@ -1870,12 +1844,25 @@
       },
       "enableBy": "register"
     },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin.js",
-      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin",
-      "key": "command:plugin",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/api",
+      "key": "generator:api",
+      "config": {},
+      "time": {
+        "hooks": {},
+        "register": 0
+      },
+      "enableBy": "register"
+    },
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
+      "type": "plugin",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/generators/precommit",
+      "key": "generator:precommit",
       "config": {},
       "time": {
         "hooks": {},
@@ -1883,10 +1870,23 @@
       },
       "enableBy": "register"
     },
-    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/verify-commit": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/verify-commit.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin.js",
+      "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/plugin",
+      "key": "command:plugin",
+      "config": {},
+      "time": {
+        "hooks": {},
+        "register": 0
+      },
+      "enableBy": "register"
+    },
+    "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/verify-commit": {
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
+      "type": "plugin",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/verify-commit.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/verify-commit",
       "key": "verifyCommit",
       "config": {},
@@ -1897,22 +1897,22 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/preview": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/preview.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/preview.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/preview",
       "key": "preview",
       "config": {},
       "time": {
         "hooks": {},
-        "register": 13
+        "register": 11
       },
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu.js",
       "id": "./node_modules/.pnpm/@umijs+preset-umi@4.6.1_@types+node@24.10.1_@types+react@18.3.27_@types+webpack@5.28.5__38e64b989b1c215ac54fd39547b2b6e8/node_modules/@umijs/preset-umi/dist/commands/mfsu/mfsu",
       "key": "mfsu-cli",
       "config": {},
@@ -1923,9 +1923,9 @@
       "enableBy": "register"
     },
     "@umijs/plugin-run": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+plugin-run@4.6.1/node_modules/@umijs/plugin-run/dist/index.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+plugin-run@4.6.1/node_modules/@umijs/plugin-run/dist/index.js",
       "id": "@umijs/plugin-run",
       "key": "run",
       "config": {},
@@ -1936,9 +1936,9 @@
       "enableBy": "register"
     },
     "./node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/generatePlugin": {
-      "cwd": "/Users/mi/Desktop/moblie/DAY-Mobile",
+      "cwd": "/Users/mi/Desktop/moblie/wangde123.github.io",
       "type": "plugin",
-      "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/generatePlugin.js",
+      "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/generatePlugin.js",
       "id": "./node_modules/.pnpm/@umijs+core@4.6.1/node_modules/@umijs/core/dist/service/generatePlugin",
       "key": "generatePlugin",
       "config": {},
@@ -1956,14 +1956,14 @@
   },
   "userConfig": {
     "npmClient": "pnpm",
-    "base": "/DAY-Mobile/",
-    "publicPath": "/DAY-Mobile/",
+    "base": "/",
+    "publicPath": "/",
     "hash": true,
     "history": {
       "type": "browser"
     }
   },
-  "mainConfigFile": "/Users/mi/Desktop/moblie/DAY-Mobile/.umirc.ts",
+  "mainConfigFile": "/Users/mi/Desktop/moblie/wangde123.github.io/.umirc.ts",
   "config": {
     "routeLoader": {
       "moduleType": "esm"
@@ -1972,9 +1972,9 @@
     "history": {
       "type": "browser"
     },
-    "base": "/DAY-Mobile/",
+    "base": "/",
     "svgr": {},
-    "publicPath": "/DAY-Mobile/",
+    "publicPath": "/",
     "mfsu": {
       "strategy": "eager"
     },
@@ -1983,13 +1983,13 @@
     "autoCSSModules": true,
     "alias": {
       "umi": "@@/exports",
-      "react": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react@18.3.1/node_modules/react",
-      "react-dom": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom",
-      "react-router": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router",
-      "react-router-dom": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-router-dom@6.3.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom",
-      "@": "/Users/mi/Desktop/moblie/DAY-Mobile/src",
-      "@@": "/Users/mi/Desktop/moblie/DAY-Mobile/src/.umi",
-      "regenerator-runtime": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime"
+      "react": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react@18.3.1/node_modules/react",
+      "react-dom": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom",
+      "react-router": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router",
+      "react-router-dom": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-router-dom@6.3.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/react-router-dom",
+      "@": "/Users/mi/Desktop/moblie/wangde123.github.io/src",
+      "@@": "/Users/mi/Desktop/moblie/wangde123.github.io/src/.umi",
+      "regenerator-runtime": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime"
     },
     "npmClient": "pnpm",
     "hash": true,
@@ -2006,7 +2006,7 @@
       "absPath": "/edit",
       "__content": "import React, { useCallback, useEffect, useState } from 'react';\nimport { NavBar, Toast, ImageUploader, Dialog } from 'antd-mobile';\nimport type { ImageUploadItem } from 'antd-mobile/es/components/image-uploader';\nimport { history } from 'umi';\nimport { createClient } from '@supabase/supabase-js';\nimport styles from './index.less';\n\n// Inline Supabase client (env-free)\nconst supabase = createClient(\n  'https://tuiwsyyxhzhjonchrtps.supabase.co',\n  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1aXdzeXl4aHpoam9uY2hydHBzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ3NDc3NjQsImV4cCI6MjA4MDMyMzc2NH0.6izd1nRzDu3FUc7Yx08W_-MN05l21uVy1sbe13Np3kA'\n);\nconst BUCKET_NAME = 'photos';\n\nasync function compressImage(file: File, maxDim = 1280, quality = 0.8): Promise<Blob> {\n  if (!file.type.startsWith('image/')) return file;\n  const bitmap = await createImageBitmap(file);\n  const { width, height } = bitmap;\n  const scale = Math.min(1, maxDim / Math.max(width, height));\n  const targetW = Math.max(1, Math.round(width * scale));\n  const targetH = Math.max(1, Math.round(height * scale));\n  const canvas = document.createElement('canvas');\n  canvas.width = targetW;\n  canvas.height = targetH;\n  const ctx = canvas.getContext('2d');\n  if (!ctx) return file;\n  ctx.drawImage(bitmap, 0, 0, targetW, targetH);\n  const type = file.type.includes('png') ? 'image/png' : 'image/jpeg';\n  return new Promise((resolve) => {\n    canvas.toBlob((blob) => resolve(blob || file), type, quality);\n  });\n}\n\nconst pathFromPublicUrl = (u: string) =>\n  decodeURIComponent(u.replace(/^https?:\\/\\/[^/]+\\/storage\\/v1\\/object\\/public\\/[^/]+\\//, ''));\n\nexport default function EditPage() {\n  const [fileList, setFileList] = useState<ImageUploadItem[]>([]);\n  const run = async () => {\n    const prefix = 'uploads';\n    const { data, error } = await supabase.storage\n      .from(BUCKET_NAME)\n      .list(prefix, {\n        limit: 20,\n        offset: 0,\n        sortBy: { column: 'name', order: 'desc' },\n      });\n    if (error) {\n      Toast.show({ content: '获取图片列表失败', duration: 2000, icon: 'fail' });\n      return;\n    }\n    const urls = (data || [])\n      .filter((item) => item.name)\n      .map((item) =>\n        supabase.storage\n          .from(BUCKET_NAME)\n          .getPublicUrl(`${prefix}/${item.name}`).data.publicUrl,\n      );\n    setFileList(urls.map((u) => ({ url: u })));\n  };\n  useEffect(() => {\n\n    run();\n  }, []);\n\n  const upload = useCallback(async (file: File) => {\n    const fileExt = file.name.split('.').pop();\n    const fileName = `${Date.now()}-${Math.random().toString(36).slice(2)}.${fileExt}`;\n    const filePath = `uploads/${fileName}`;\n\n    const compressed = await compressImage(file);\n    const { error } = await supabase.storage.from(BUCKET_NAME).upload(filePath, compressed, {\n      cacheControl: '3600',\n      upsert: true,\n      contentType: file.type,\n    });\n\n    if (error) {\n      Toast.show({ content: '上传失败，请稍后重试', duration: 2000, icon: 'fail' });\n      throw error;\n    }\n\n    const { data } = supabase.storage.from(BUCKET_NAME).getPublicUrl(filePath);\n    Toast.show({ content: '上传成功', duration: 1500, icon: 'success' });\n    // Controlled ImageUploader will append the returned item automatically via onChange\n    return { url: data.publicUrl };\n  }, []);\n\n  const onDelete = async (item: ImageUploadItem) => {\n    const confirmed = await Dialog.confirm({ content: '是否确认删除' });\n    if (!confirmed) return false;\n    const url = item.url as string | undefined;\n    if (!url) return false;\n    const path = pathFromPublicUrl(url);\n    const { error } = await supabase.storage.from(BUCKET_NAME).remove([path]);\n    if (error) {\n      Toast.show({ content: '删除失败', duration: 2000, icon: 'fail' });\n      return false;\n    }\n    Toast.show({ content: '已删除', duration: 1500, icon: 'success' });\n    setFileList((prev) => prev.filter((i) => i.url !== url));\n    return true;\n  };\n\n  return (\n    <div className={styles.editContainer}>\n      <NavBar onBack={() => history.push('/')} style={{background:\"#fff\"}}>图片编辑</NavBar>\n      <div className={styles.body}>\n        <ImageUploader value={fileList} onChange={setFileList} upload={upload} onDelete={onDelete} maxCount={5} />\n      </div>\n    </div>\n  );\n}\n",
       "__isJSFile": true,
-      "__absFile": "/Users/mi/Desktop/moblie/DAY-Mobile/src/pages/edit/index.tsx"
+      "__absFile": "/Users/mi/Desktop/moblie/wangde123.github.io/src/pages/edit/index.tsx"
     },
     "index": {
       "path": "/",
@@ -2016,7 +2016,7 @@
       "absPath": "/",
       "__content": "import React, { useCallback, useEffect, useState } from 'react';\nimport { Swiper, Image, Toast, Dialog, Space } from 'antd-mobile';\nimport type { ImageUploadItem } from 'antd-mobile/es/components/image-uploader';\nimport { AddCircleOutline } from 'antd-mobile-icons';\nimport { createClient } from '@supabase/supabase-js';\nimport styles from './index.less';\nimport { history } from 'umi';\n\n// Inline Supabase client (env-free)\nconst supabase = createClient(\n  'https://tuiwsyyxhzhjonchrtps.supabase.co',\n  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1aXdzeXl4aHpoam9uY2hydHBzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ3NDc3NjQsImV4cCI6MjA4MDMyMzc2NH0.6izd1nRzDu3FUc7Yx08W_-MN05l21uVy1sbe13Np3kA'\n);\n\nconst BUCKET_NAME = 'photos';\n\n// Client-side image compression to improve upload speed\nasync function compressImage(file: File, maxDim = 1280, quality = 0.8): Promise<Blob> {\n  if (!file.type.startsWith('image/')) return file;\n  const bitmap = await createImageBitmap(file);\n  const { width, height } = bitmap;\n  const scale = Math.min(1, maxDim / Math.max(width, height));\n  const targetW = Math.max(1, Math.round(width * scale));\n  const targetH = Math.max(1, Math.round(height * scale));\n  const canvas = document.createElement('canvas');\n  canvas.width = targetW;\n  canvas.height = targetH;\n  const ctx = canvas.getContext('2d');\n  if (!ctx) return file;\n  ctx.drawImage(bitmap, 0, 0, targetW, targetH);\n  const type = file.type.includes('png') ? 'image/png' : 'image/jpeg';\n  return new Promise((resolve) => {\n    canvas.toBlob((blob) => resolve(blob || file), type, quality);\n  });\n}\n\nexport default function HomePage() {\n  const [slides, setSlides] = useState<{ image: string; id: number; title: string }[]>([]);\n  const [loading, setLoading] = useState<boolean>(false);\n  const run = async () => {\n    setLoading(true);\n    const prefix = 'uploads';\n    const { data, error } = await supabase.storage\n      .from(BUCKET_NAME)\n      .list(prefix, {\n        limit: 20,\n        offset: 0,\n        sortBy: { column: 'name', order: 'desc' },\n      });\n    if (error) {\n      setLoading(false);\n      console.error('[Supabase list error]', error.message);\n      Toast.show({ content: '获取图片列表失败', duration: 2000, icon: 'fail' });\n      return;\n    }\n    const urls = (data || [])\n      .filter((item) => item.name)\n      .map((item, index) => {\n        return {\n          image: supabase.storage\n            .from(BUCKET_NAME)\n            .getPublicUrl(`${prefix}/${item.name}`).data.publicUrl,\n          id: index,\n          title: item.name\n        }\n      }\n\n      );\n    setSlides(urls);\n    setLoading(false);\n    console.log('[Supabase photos]', urls);\n  };\n  useEffect(() => {\n    run();\n  }, []);\n\n\n\n\n\n\n\n\n\n\n\n  return (\n    <div className={styles.homeContainer}>\n      <AddCircleOutline className={styles.out_line} fontSize={25} onClick={() => history.push('/edit')} />\n      {loading && (\n        <div className={styles.skeleton} />\n      )}\n      {!loading && (\n        <Swiper autoplay loop autoplayInterval={3000}>\n          {slides.map((slide) => (\n            <Swiper.Item key={slide.id}>\n              <div className={styles.swiperItem}>\n                <Image src={slide.image} alt={slide.title} className={styles.swiperImage} />\n              </div>\n            </Swiper.Item>\n          ))}\n        </Swiper>\n      )}\n    </div>\n  );\n}\n",
       "__isJSFile": true,
-      "__absFile": "/Users/mi/Desktop/moblie/DAY-Mobile/src/pages/index.tsx"
+      "__absFile": "/Users/mi/Desktop/moblie/wangde123.github.io/src/pages/index.tsx"
     },
     "docs": {
       "path": "docs",
@@ -2026,15 +2026,15 @@
       "absPath": "/docs",
       "__content": "const DocsPage = () => {\n  return (\n    <div>\n      <p>This is umi docs.</p>\n    </div>\n  );\n};\n\nexport default DocsPage;\n",
       "__isJSFile": true,
-      "__absFile": "/Users/mi/Desktop/moblie/DAY-Mobile/src/pages/docs.tsx"
+      "__absFile": "/Users/mi/Desktop/moblie/wangde123.github.io/src/pages/docs.tsx"
     },
     "@@/global-layout": {
       "id": "@@/global-layout",
       "path": "/",
-      "file": "/Users/mi/Desktop/moblie/DAY-Mobile/src/layouts/index.tsx",
+      "file": "/Users/mi/Desktop/moblie/wangde123.github.io/src/layouts/index.tsx",
       "absPath": "/",
       "isLayout": true,
-      "__absFile": "/Users/mi/Desktop/moblie/DAY-Mobile/src/layouts/index.tsx"
+      "__absFile": "/Users/mi/Desktop/moblie/wangde123.github.io/src/layouts/index.tsx"
     }
   },
   "apiRoutes": {},
@@ -2054,11 +2054,11 @@
   },
   "react": {
     "version": "18.3.1",
-    "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react@18.3.1/node_modules/react"
+    "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react@18.3.1/node_modules/react"
   },
   "react-dom": {
     "version": "18.3.1",
-    "path": "/Users/mi/Desktop/moblie/DAY-Mobile/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom"
+    "path": "/Users/mi/Desktop/moblie/wangde123.github.io/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom"
   },
   "appJS": null,
   "locale": "zh-CN",
@@ -2067,7 +2067,7 @@
   "overridesCSS": [],
   "bundler": "webpack",
   "git": {
-    "originUrl": "https://github.com/wangde123/DAY-Mobile.git"
+    "originUrl": "https://github.com/wangde123/wangde123.github.io.git"
   },
   "framework": "react",
   "typescript": {
