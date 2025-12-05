@@ -38,28 +38,21 @@ export default function EditPage() {
   const [fileList, setFileList] = useState<ImageUploadItem[]>([]);
   const run = async () => {
     const prefix = 'uploads';
-    const { data, error } = await supabase.storage
-      .from(BUCKET_NAME)
-      .list(prefix, {
-        limit: 20,
-        offset: 0,
-        sortBy: { column: 'name', order: 'desc' },
-      });
+    const { data, error } = await supabase.storage.from(BUCKET_NAME).list(prefix, {
+      limit: 20,
+      offset: 0,
+      sortBy: { column: 'name', order: 'desc' }
+    });
     if (error) {
       Toast.show({ content: '获取图片列表失败', duration: 2000, icon: 'fail' });
       return;
     }
     const urls = (data || [])
       .filter((item) => item.name)
-      .map((item) =>
-        supabase.storage
-          .from(BUCKET_NAME)
-          .getPublicUrl(`${prefix}/${item.name}`).data.publicUrl,
-      );
+      .map((item) => supabase.storage.from(BUCKET_NAME).getPublicUrl(`${prefix}/${item.name}`).data.publicUrl);
     setFileList(urls.map((u) => ({ url: u })));
   };
   useEffect(() => {
-
     run();
   }, []);
 
@@ -72,7 +65,7 @@ export default function EditPage() {
     const { error } = await supabase.storage.from(BUCKET_NAME).upload(filePath, compressed, {
       cacheControl: '3600',
       upsert: true,
-      contentType: file.type,
+      contentType: file.type
     });
 
     if (error) {
@@ -104,7 +97,9 @@ export default function EditPage() {
 
   return (
     <div className={styles.editContainer}>
-      <NavBar onBack={() => history.push('/')} style={{background:"#fff"}}>图片编辑</NavBar>
+      <NavBar onBack={() => history.push('/')} style={{ background: '#fff' }}>
+        图片编辑
+      </NavBar>
       <div className={styles.body}>
         <ImageUploader value={fileList} onChange={setFileList} upload={upload} onDelete={onDelete} maxCount={10} />
       </div>
